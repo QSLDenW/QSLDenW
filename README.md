@@ -14,7 +14,7 @@ Hello! 👋 I'm QSLDenW, a passionate developer who loves creating amazing appli
 - Traveling
 
 ## Get in Touch
-- **Email:** [qsl@example.com](mailto:qsl@example.com)
+- **Email:** [slden.studio.official@gmail.com](mailto:slden.studio.official@gmail.com)
 - **GitHub:** [QSLDenW](https://github.com/QSLDenW)
 - **Twitter:** [@QSLDenW](https://twitter.com/QSLDenW)
 
